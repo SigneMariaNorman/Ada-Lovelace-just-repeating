@@ -1,0 +1,18 @@
+h1 {
+    font-family: Brush Script MT;
+    color: #8B0000; /* Dark Red */
+    font-size: 24px;
+    text-align: center;
+}
+h2 {
+    font-family: Brush Script MT;
+    color: #8B0000; /* Dark Red */
+    font-size: 20px;
+    text-align: center;
+}
+p {
+    font-family: 'Times New Roman';
+    color: #2F4F4F; /* Dark Slate Gray */
+    font-size: 16px;
+    line-height: 1.5;
+}
